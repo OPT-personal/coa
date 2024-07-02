@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.juustins.opt</groupId>
-    <artifactId>OPT3</artifactId>
+    <artifactId>coa</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
