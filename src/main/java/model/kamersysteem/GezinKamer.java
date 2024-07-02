@@ -5,8 +5,5 @@ public class GezinKamer extends Kamer{
         super(aatalSlaapplaatsen);
     }
 
-    @Override
-    public void plaatInKamer() {
 
-    }
 }

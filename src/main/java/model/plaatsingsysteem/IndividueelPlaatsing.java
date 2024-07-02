@@ -11,10 +11,7 @@ public class IndividueelPlaatsing extends PlaatsingSysteem  {
         super(dataSeeder);
     }
 
-    @Override
-    public int getNodigePlekken(Asielzoeker asielzoeker) {
-        return 1;
-    }
+
 
     @Override
     public void plaatsAsielzoker(AZC azc, Asielzoeker asielzoeker) {
